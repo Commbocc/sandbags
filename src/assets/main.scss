@@ -10,3 +10,8 @@ $primary: #054173 !default;
 $enable-rounded: false !default;
 
 @import 'bootstrap';
+
+html,
+body {
+  background: transparent;
+}

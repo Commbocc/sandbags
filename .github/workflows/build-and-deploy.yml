@@ -14,7 +14,7 @@ on:
     # * * * * *
 
     # * is a special character in YAML so you have to quote this string
-    # - cron: '0 */4 * * *' # every 4 hour
+    # - cron: '0 */4 * * *' # every 4 hours
     - cron: '0 * * * *' # hourly
 
 jobs:
